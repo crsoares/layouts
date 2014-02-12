@@ -12,4 +12,55 @@
 .panel-body table tr td { padding-left: 15px; }
 .panel-body .table { margin-bottom: 0px; }
 
+/*Menu Horizontal*/
+.navbar {
+    background-color: #e2e7ed;
+    border-color: #ced6e0;
+    background-image: -webkit-gradient(linear, left 0%, left 100%, from(#ffffff), to(#e2e7ed));
+    background-image: -webkit-linear-gradient(top, #ffffff, 0%, #e2e7ed, 100%);
+    background-image: -moz-linear-gradient(top, #ffffff 0%, #e2e7ed 100%);
+    background-image: linear-gradient(to bottom, #ffffff 0%, #e2e7ed 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe2e7ed', GradientType=0);
+    min-height: 9px;
+    border-radius: 0;
+    padding-left: 10px;
+}
 
+.btn-group a {
+    font-size: 10px;
+}
+
+.btn:active,
+.btn.active {
+    box-shadow: none;
+}
+
+.btn-group:hover {
+    background-color: #DBDBDB;
+}
+
+.dropdown-toggle {
+    max-height: 15px;
+}
+
+/*.btn-group {
+   border-right:1px solid #16222c;
+}*/
+
+.btn-group a:focus,
+.btn-group a span:focus,
+.btn-group a div a:focus,
+.btn:focus {
+color: #000;
+text-decoration: underline;
+}
+
+
+.btn-group a:hover {
+    background: none;
+    border: none;
+    color: #000;
+    text-decoration: underline;
+
+}
