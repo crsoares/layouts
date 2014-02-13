@@ -74,7 +74,7 @@
              </div>
          </div>
          <div class="row">
-             <div class="col-md-2" style="background-color: #004492; color: #FFF; height: 600px; overflow: auto;">
+             <div class="col-md-2" style="background-color: #004492; color: #FFF; height: 620px; overflow: auto;">
                  <h4 class="" style="margin-left: 45px;">Menu Principal</h4>
                  <div class="panel-group" id="accordion">
                      <div class="panel panel-default">
@@ -86,7 +86,7 @@
                                  </a>
                              </h4>
                          </div>
-                         <div id="collapseOne" class="panel-collapse collapse in">
+                         <div id="collapseOne" class="panel-collapse collapse">
                              <div class="panel-body">
                                  <div class="row">
                                      <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
@@ -141,100 +141,118 @@
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                         </div>
+                     </div>
+                     <div class="panel panel-default">
+                         <div class="panel-heading">
+                             <h4 class="panel-title">
+                                 <a data-toggle="collapse" data-parent="#accordion" href="#menu-header3">
+                                     <span class="glyphicon glyphicon-th"></span>
+                                     Modulos
+                                 </a>
+                             </h4>
+                         </div>
+                         <div id="menu-header3" class="panel-collapse collapse">
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
                                          </div>
                                      </div>
                                  </div>
+                             </div>
+                         </div>
+                     </div>
+                     <div class="panel panel-default">
+                         <div class="panel-heading">
+                             <h4 class="panel-title">
+                                 <a data-toggle="collapse" data-parent="#accordion" href="#menu-header4">
+                                     <span class="glyphicon glyphicon-file"></span>
+                                     Reports
+                                 </a>
+                             </h4>
+                         </div>
+                         <div id="menu-header4" class="panel-collapse collapse">
+                             <div class="panel-body">
                                  <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
                                          <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
-                                         <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
-                                         <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="row">
-                                     <div class="col-md-12 col-xs-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
-                                         <div style="padding: 10px 0 0 15px;">
-                                             <a href="#" style="padding-top: 10px;">Notifications</a>
-                                             <span class="label label-info">5</span>
-                                         </div>
+                                             <span class="glyphicon glyphicon-tasks text-primary"></span>
+                                             <a href="#">Products</a>
+                                         </div> 
                                      </div>
                                  </div>
                              </div>

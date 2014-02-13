@@ -1,5 +1,5 @@
 html, body {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .container {
@@ -11,7 +11,7 @@ html, body {
 }
 
 /*Menu vestical*/
-//.glyphicon { margin-right: 10px; }
+.glyphicon { margin-right: 10px; }
 .panel-body { padding: 0px; }
 
 /*Menu Horizontal*/
