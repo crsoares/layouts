@@ -49,17 +49,17 @@
 
 
 
-     <div class="container">
+     <div class="container navbar-fixed-top">
          <div class="row">
-             <div class="col-md-12 col-xs-12">
-                 <header class="navbar-fixed-top" style="background-color: #EFF2F5;">
-                     <div class="container">
+             <div class="col-md-12">
+                 <header style="background-color: #EFF2F5;">
+                     <div>
                          <div class="pull-left">
                              <a href="#" class="brand"><img src="bootstrap/img/logo_cab.gif" alt="conadmin" class="img-responsive"></a>
                          </div>
 
                          <div class="hidden-xs">
-                <span class="texto-bloco pull-left">
+                <span class="texto-bloco pull-left" style="margin-left: 95px;">
                     <b>DESENVOLVIMENTO - ConAdmin - Sistema Administrativo de Qualidade v. 4.0.4 Release</b> <br>
                     Loja: Desenvolvimento (2014-01-13) - Usuário: Proserver Telecomunicações LTDA
                 </span>
@@ -74,9 +74,9 @@
              </div>
          </div>
          <div class="row">
-             <div class="col-md-2 col-xs-2" style="background-color: #004492; color: #FFF;">
-                 <h4 class="" style="margin-left: 45px; margin-top: 60px;">Menu Principal</h4>
-                 <div class="panel-group" id="accordion" style="">
+             <div class="col-md-2" style="background-color: #004492; color: #FFF; height: 600px; overflow: auto;">
+                 <h4 class="" style="margin-left: 45px;">Menu Principal</h4>
+                 <div class="panel-group" id="accordion">
                      <div class="panel panel-default">
                          <div class="panel-heading">
                              <h4 class="panel-title">
@@ -242,9 +242,9 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-10 col-xs-10" style="border: 1px solid red;">
-                 <nav class="navbar-fixed-top" role="navigation" style="margin-top: 43px; margin-left: 228px;">
-                     <div class="row" style="background-color: #004492; margin-left: 0px; padding-bottom: 10px">
+             <div class="col-md-10">
+                 <nav class="" role="navigation" style="">
+                     <div class="row" style="background-color: #004492; padding-bottom: 10px">
                          <div class="col-md-2">
                              <label>Nome</label>
                              <input type="text" class="form-control input-sm" >
@@ -269,7 +269,7 @@
                              <input style="margin-top: 20px;" type="button" class="btn btn-default" value="Buscar" >
                          </div>
                      </div>
-                     <div class="container" style="background-color: #EFF2F5;">
+                     <div class="row" style="background-color: #EFF2F5;">
                          <ul class="nav" style="list-style-type: none;">
                              <li class="dropdown">
                                  <div class="btn-group" style="border-right: 2px solid #F6F6F6; padding-right: 10px; height: 15px; margin-right: -4px;">
@@ -313,9 +313,9 @@
          </div>
      </div>
 
-
-
-
+    <div class="container">
+        
+    </div>
 
 
 </body>

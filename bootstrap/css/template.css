@@ -1,3 +1,7 @@
+html, body {
+    font-size: 10px;
+}
+
 .container {
     max-width: 100%;
 }
@@ -7,10 +11,8 @@
 }
 
 /*Menu vestical*/
-.glyphicon { margin-right: 10px; }
+//.glyphicon { margin-right: 10px; }
 .panel-body { padding: 0px; }
-.panel-body table tr td { padding-left: 15px; }
-.panel-body .table { margin-bottom: 0px; }
 
 /*Menu Horizontal*/
 .navbar {
@@ -63,4 +65,34 @@ text-decoration: underline;
     color: #000;
     text-decoration: underline;
 
+}
+
+
+
+label {
+    color: #FFF;
+}
+
+input[type="text"] { 
+    height: 22px;
+    padding: 0 0 0 2px;
+}
+
+input[type="text"]:focus {
+    background-color: rgb(255, 234, 234);
+    border:2px solid #F1CA7F;
+}
+
+input[type="button"],
+input[type="button"]:focus {
+    //font-size: 12px;
+    height: 23px;
+    padding: 0 2px 0 2px;
+    outline: none;
+    text-decoration: none;
+    border: 1px solid #A4A4A4;
+}
+
+input[type="button"]:hover {
+    background-color: #DBDBDB;
 }
