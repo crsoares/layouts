@@ -49,8 +49,9 @@
 
 
 
-     <div style="position: fixed;">
-         <div class="row">
+     <div class="container" style="">
+         
+         <div class="row navbar-fixed-top">
              <div class="col-md-12">
                  <header style="background-color: #EFF2F5;">
                      <div>
@@ -73,7 +74,7 @@
                  </header>
              </div>
          </div>
-         <div class="row">
+         <div class="row navbar-fixed-top">
              <div class="col-md-2" style="background-color: #004492; color: #FFF; height: 620px; overflow: auto;">
                  <h4 class="" style="margin-left: 45px;">Menu Principal</h4>
                  <div class="panel-group" id="accordion">
@@ -329,11 +330,10 @@
                  </nav>
              </div>
          </div>
-     </div>
-    <div class="clearfix"></div>
-    <div class="container" style="margin-top: 200px; margin-left: 260px;">
-        <input type="button" class="btn btn-info" value="teste" >
+         <div style="margin-top: 200px; margin-left: 260px;">
+        <input type="button" class="btn btn-info" onclick="alert('akiiii')" value="teste" >
     </div>
+     </div>
 
 
 </body>
