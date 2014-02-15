@@ -47,11 +47,9 @@
 
 
 
-
-
-     <div class="container" style="">
-         
-         <div class="row navbar-fixed-top">
+    
+     
+     <div class="navbar navbar-fixed-top">
              <div class="col-md-12">
                  <header style="background-color: #EFF2F5;">
                      <div>
@@ -74,8 +72,78 @@
                  </header>
              </div>
          </div>
-         <div class="row navbar-fixed-top">
-             <div class="col-md-2" style="background-color: #004492; color: #FFF; height: 620px; overflow: auto;">
+         <div class="navbar navbar-fixed-top" style="margin-top: 43px;">
+                 <nav class="" role="navigation" style="">
+                     <div class="row" style="background-color: #004492; padding-bottom: 10px">
+                         <div class="col-md-2">
+                             <label>Nome</label>
+                             <input type="text" class="form-control input-sm" >
+                         </div>
+                         <div class="col-md-2">
+                             <label>Fabricante</label>
+                             <input type="text" class="form-control input-sm" >
+                         </div>
+                         <div class="col-md-2">
+                             <label>Grupo Produto</label>
+                             <input type="text" class="form-control input-sm" >
+                         </div>
+                         <div class="col-md-2">
+                             <label>SubGrupo Produto</label>
+                             <input type="text" class="form-control input-sm" >
+                         </div>
+                         <div class="col-md-1">
+                             <label>Qtd.</label>
+                             <input type="text" class="form-control input-sm" >
+                         </div>
+                         <div class="col-md-1">
+                             <input style="margin-top: 20px;" type="button" class="btn btn-default" value="Buscar" >
+                         </div>
+                     </div>
+                     <div class="row" style="background-color: #EFF2F5;">
+                         <ul class="nav" style="list-style-type: none;">
+                             <li class="dropdown">
+                                 <div class="btn-group" style="border-right: 2px solid #F6F6F6; padding-right: 10px; height: 15px; margin-right: -4px;">
+                                     <a href="#" class="btn" style="border: none; padding: 6px 2px 6px 0;">
+                                         <a href="#" class="btn dropdown-toggle" data-toggle="dropdown" style="border: none; padding: 0 0 2px 2px; float: left;">
+                                             <span class="caret"></span>
+                                             <span class="sr-only"></span>
+                                         </a>
+                                         <ul class="dropdown-menu" role="menu">
+                                             <li><a href="http://www.google.com">Novo</a></li>
+                                         </ul>
+                                         <div style="margin: 0px 0 0 16px;"><a href="#">Produto</a> <i class="fa fa-plus-square-o fa-lg"></i></div>
+                                     </a>
+
+                                 </div>
+                                 <div class="btn-group" style="border-right: 1px solid #444; padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
+                                     <a href="#" class="btn" style="border: none; padding: 6px 2px 6px 0;">
+                                         <a href="#" class="btn dropdown-toggle" data-toggle="dropdown" style="border: none; padding: 0 0 2px 2px; width: 5px;">
+                                             <span class="caret"></span>
+                                             <span class="sr-only"></span>
+                                         </a>
+                                         <ul class="dropdown-menu" role="menu">
+                                             <li><a href="#">Novo</a></li>
+                                         </ul>
+                                         <div style="margin: 0px 0 0 16px;"><a href="#">Produto/Foto</a> <i class="fa fa-plus-square-o fa-lg"></i></div>
+                                     </a>
+                                 </div>
+                                 <div class="btn-group" style="border-right: 1px solid #444; padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
+                                     <a href="#" class="btn" style="border: none;  padding: 0px 2px 6px 0;">
+                                         <div style="margin: 0px 0 0 2px;"><a href="#">Produto/Tabela Preço</a> <i class="fa fa-plus-square-o fa-lg"></i></div></a>
+                                 </div>
+                                 <div class="btn-group" style="padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
+                                     <a href="#" class="btn" style="border: none; padding: 0px 2px 6px 0;"><div style="margin: 0px 0 0 2px;"><a href="#">Tabela Preço</a> <i class="fa fa-plus-square-o fa-lg"></i></div></a>
+                                 </div>
+                             </li>
+                         </ul>
+                     </div>
+
+                 </nav>
+             </div>
+         
+         <div class="container">
+         	<div class="row">
+             <div class="col-md-2 sidebar" style="background-color: #004492; color: #FFF;">
                  <h4 class="" style="margin-left: 45px;">Menu Principal</h4>
                  <div class="panel-group" id="accordion">
                      <div class="panel panel-default">
@@ -235,6 +303,66 @@
                                      </div>
                                  </div>
                              </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="panel-body">
+                                 <div class="row">
+                                     <div class="col-md-12" style="border-top: 1px solid #DDDDDD; height: 40px;">
+                                         <div style="padding: 10px 0 0 15px;">
+                                             <a href="#" style="padding-top: 10px;">Delete Account</a>
+                                             <span class="glyphicon glyphicon-trash text-danger"></span>
+                                         </div>
+                                     </div>
+                                 </div>
+                             </div>
                          </div>
                      </div>
                      <div class="panel panel-default">
@@ -261,79 +389,14 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-10">
-                 <nav class="" role="navigation" style="">
-                     <div class="row" style="background-color: #004492; padding-bottom: 10px">
-                         <div class="col-md-2">
-                             <label>Nome</label>
-                             <input type="text" class="form-control input-sm" >
-                         </div>
-                         <div class="col-md-2">
-                             <label>Fabricante</label>
-                             <input type="text" class="form-control input-sm" >
-                         </div>
-                         <div class="col-md-2">
-                             <label>Grupo Produto</label>
-                             <input type="text" class="form-control input-sm" >
-                         </div>
-                         <div class="col-md-2">
-                             <label>SubGrupo Produto</label>
-                             <input type="text" class="form-control input-sm" >
-                         </div>
-                         <div class="col-md-1">
-                             <label>Qtd.</label>
-                             <input type="text" class="form-control input-sm" >
-                         </div>
-                         <div class="col-md-1">
-                             <input style="margin-top: 20px;" type="button" class="btn btn-default" value="Buscar" >
-                         </div>
-                     </div>
-                     <div class="row" style="background-color: #EFF2F5;">
-                         <ul class="nav" style="list-style-type: none;">
-                             <li class="dropdown">
-                                 <div class="btn-group" style="border-right: 2px solid #F6F6F6; padding-right: 10px; height: 15px; margin-right: -4px;">
-                                     <a href="#" class="btn" style="border: none; padding: 6px 2px 6px 0;">
-                                         <a href="#" class="btn dropdown-toggle" data-toggle="dropdown" style="border: none; padding: 0 0 2px 2px; float: left;">
-                                             <span class="caret"></span>
-                                             <span class="sr-only"></span>
-                                         </a>
-                                         <ul class="dropdown-menu" role="menu">
-                                             <li><a href="http://www.google.com">Novo</a></li>
-                                         </ul>
-                                         <div style="margin: 0px 0 0 16px;"><a href="#">Produto</a> <i class="fa fa-plus-square-o fa-lg"></i></div>
-                                     </a>
-
-                                 </div>
-                                 <div class="btn-group" style="border-right: 1px solid #444; padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
-                                     <a href="#" class="btn" style="border: none; padding: 6px 2px 6px 0;">
-                                         <a href="#" class="btn dropdown-toggle" data-toggle="dropdown" style="border: none; padding: 0 0 2px 2px; width: 5px;">
-                                             <span class="caret"></span>
-                                             <span class="sr-only"></span>
-                                         </a>
-                                         <ul class="dropdown-menu" role="menu">
-                                             <li><a href="#">Novo</a></li>
-                                         </ul>
-                                         <div style="margin: 0px 0 0 16px;"><a href="#">Produto/Foto</a> <i class="fa fa-plus-square-o fa-lg"></i></div>
-                                     </a>
-                                 </div>
-                                 <div class="btn-group" style="border-right: 1px solid #444; padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
-                                     <a href="#" class="btn" style="border: none;  padding: 0px 2px 6px 0;">
-                                         <div style="margin: 0px 0 0 2px;"><a href="#">Produto/Tabela Preço</a> <i class="fa fa-plus-square-o fa-lg"></i></div></a>
-                                 </div>
-                                 <div class="btn-group" style="padding: 0 10px 0 4px; height: 15px; margin-right: -4px;">
-                                     <a href="#" class="btn" style="border: none; padding: 0px 2px 6px 0;"><div style="margin: 0px 0 0 2px;"><a href="#">Tabela Preço</a> <i class="fa fa-plus-square-o fa-lg"></i></div></a>
-                                 </div>
-                             </li>
-                         </ul>
-                     </div>
-
-                 </nav>
-             </div>
+             
          </div>
-         <div style="margin-top: 200px; margin-left: 260px;">
+         </div>
+         
+         
+         <div style="margin-top: 50px; margin-left: 260px; height: 900px;">
         <input type="button" class="btn btn-info" onclick="alert('akiiii')" value="teste" >
     </div>
-     </div>
 
 
 </body>
