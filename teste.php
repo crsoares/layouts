@@ -291,7 +291,7 @@
                      </div>
                  </div>
              </div>
-             <div class="col-md-10 navsidebar">
+             <div class="col-md-10 navbar-fixed-top pull-right">
                  <nav class="" role="navigation" style="">
                      <div class="row" style="background-color: #004492; padding-bottom: 10px">
                          <div class="col-md-2">
