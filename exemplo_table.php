@@ -21,15 +21,18 @@
 			.table-hover > tbody > tr > th.danger:hover,
 			.table-hover > tbody > tr.danger:hover > td {
 				background-color: #ebcccc;
-				border-top: 5px solid #FFF;
-				border-bottom: 5px solid #FFF;
+				border-top: 2px solid #FFF;
+				border-bottom: 2px solid #FFF;
+				color: #000;
 	
 			}
 			.table > tbody > tr > td.danger,
 			.table > tbody > tr.danger > td {
 				background-color: #d9534f;
-				border-top: 5px solid #FFF;
-				border-bottom: 5px solid #FFF;
+				border-top: 2px solid #FFF;
+				border-bottom: 2px solid #FFF;
+				color: #FFF;
+				font-size: 18px;
 			}
 
 			.header {
@@ -41,13 +44,13 @@
 	</head>
 	<body>
 		<div class="panel panel-primary">
-			<div class="panel-heading">
+			<!--<div class="panel-heading">
 				<h3 class="panel-title">Tickets do Dia</h3>
-			</div>
+			</div>-->
 			<!--<div class="panel-body">
 				
 			</div>-->
-			<table class="table table-hover">
+			<table class="table table-hover table-bordered">
 				<thead>
 					<tr class="header">
 						<th>Ticket</th>
