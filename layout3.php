@@ -6,6 +6,16 @@
 		<link href="bootstrap/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
 		<script src="bootstrap/js/jquery-1.10.2.min.js"></script>
 		<script src="bootstrap/js/bootstrap.js"></script>
+
+		<style>
+			label {
+				float: left;
+			}
+
+			br {
+				clear: left;
+			}
+		</style>
 	</head>
 	<body>
 		<!-- <div class="modal fade">
@@ -24,8 +34,10 @@
 				</div>
 			</div>
 		</div> -->
-		<div class="form-inline">
-			<input type="text" class="input-sm" />
+		<div>
+			<label>Teste 1</label>
+			<input type="text" class="input-sm" /><br />
+			<label>teste 2</label>
 			<input type="text" class="input-sm" />
 		</div>
 	</body>
