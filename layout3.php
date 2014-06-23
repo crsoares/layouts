@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt"> ola mundo
 	<head>
 		<title>Exemplo modal</title>
 		<meta charset="UTF-8" />
