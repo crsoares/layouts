@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> teste teste
 <html lang="pt"> ola mundo
 	<head>
 		<title>Exemplo modal</title>
