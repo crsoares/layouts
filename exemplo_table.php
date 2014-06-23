@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> outo novo ola mundo
 <html lang="pt">
 	<head>
 		<title>Exemplo Tabela</title>
