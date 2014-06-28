@@ -1,5 +1,5 @@
-<!DOCTYPE html> teste ola mundo remove
-<html lang="pt"> ola mundo ola mundo novo ola mundo
+<!DOCTYPE html>
+<html lang="pt"> removo teste 
 <head>
     <meta charset="utf-8" >
     <title>Layout 1</title>
