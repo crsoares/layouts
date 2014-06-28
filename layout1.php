@@ -1,4 +1,4 @@
-<!DOCTYPE html> remove novo ola mundo
+<!DOCTYPE html> remove
 <html lang="pt">
 <head>
     <meta charset="utf-8" >
